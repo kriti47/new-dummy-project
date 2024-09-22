@@ -1,0 +1,88 @@
+[19-Feb-2020 20:33:47 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[20-Feb-2020 08:57:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[21-Feb-2020 01:55:45 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[21-Feb-2020 09:10:52 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[22-Feb-2020 00:45:06 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[22-Feb-2020 09:23:20 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[23-Feb-2020 06:27:48 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[23-Feb-2020 09:28:28 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[23-Feb-2020 19:28:17 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[24-Feb-2020 09:32:25 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[25-Feb-2020 01:54:09 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[25-Feb-2020 09:45:48 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[25-Feb-2020 19:22:08 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[26-Feb-2020 09:52:29 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[27-Feb-2020 00:35:51 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[27-Feb-2020 10:08:38 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[27-Feb-2020 21:31:40 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[28-Feb-2020 10:10:48 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[28-Feb-2020 20:20:43 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[29-Feb-2020 03:31:01 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[08-Mar-2020 07:00:56 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
+[08-Mar-2020 07:00:57 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function asset() in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/mettacor/public_html/globalassignmentexpert.com/resources/views/nursing-help.blade.php on line 40
